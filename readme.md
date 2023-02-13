@@ -34,7 +34,7 @@ todos os projetos realizados são EXCLUSIVAMENTE DE PROPÓSITO ACADÊMICO. Não 
 
 ### Captura de Tela
 
-![](https://github.com/cristianosbarbosadev/DesenvolveGB-Semana1/blob/473aa6434d868b02cc3ed36039b207e4fbe4ffb7/captura_barbearia.png)
+![](https://github.com/cristianosbarbosadev/DesenvolveGB-Semana3/blob/main/ALURINHA/ps-alurinha.JPG)
 
 ### Apeperia
 
@@ -49,7 +49,7 @@ todos os projetos realizados são EXCLUSIVAMENTE DE PROPÓSITO ACADÊMICO. Não 
 
 ### Captura de Tela
 
-![](https://github.com/cristianosbarbosadev/DesenvolveGB-Semana1/blob/473aa6434d868b02cc3ed36039b207e4fbe4ffb7/captura_barbearia.png)
+![](https://github.com/cristianosbarbosadev/DesenvolveGB-Semana3/blob/main/ALURINHA/ps-alurinha.JPG)
 
 ### Links
 
