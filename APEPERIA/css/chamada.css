@@ -4,10 +4,10 @@
     align-items: center;
 
 
-    color: #FFF;
+    color: var(--branco);
     text-align: center;
     
-    background-color: #00161C;
+    background-color: var(--bg-chamada-mobile);
 
     padding-top: 12.25rem;
     padding-bottom: 2.5rem;
