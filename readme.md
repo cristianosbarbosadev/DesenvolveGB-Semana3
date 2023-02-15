@@ -49,7 +49,7 @@ todos os projetos realizados são EXCLUSIVAMENTE DE PROPÓSITO ACADÊMICO. Não 
 
 ### Captura de Tela
 
-![](https://github.com/cristianosbarbosadev/DesenvolveGB-Semana3/blob/main/ALURINHA/ps-alurinha.JPG)
+![](https://github.com/cristianosbarbosadev/DesenvolveGB-Semana3/blob/main/APEPERIA/ps-apeperia.JPG)
 
 ### Links
 
